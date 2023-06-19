@@ -4,7 +4,7 @@ RGB Sliders is a simple web application that allows you to control the backgroun
 
 ## example
 
-[example](https://codepen.io/ProCounter/full/rNQLmbN)
+[Codepen](https://codepen.io/ProCounter/full/rNQLmbN)
 
 ## features
 
